@@ -29,5 +29,5 @@ tippy("#developer", {
     });
     tippy("#oldname2", {
     animation: 'scale',
-    content: "Originally known as Schizosculptures#9333"
+    content: "Originally known as Error#error"
     });
