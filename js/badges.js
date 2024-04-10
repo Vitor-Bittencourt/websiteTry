@@ -27,7 +27,3 @@ tippy("#developer", {
     animation: 'scale',
     content: "Originally known as Try"
     });
-    // tippy("#oldname2", {
-    // animation: 'scale',
-    // content: "Originally known as Schizosculptures#9333"
-    // });
