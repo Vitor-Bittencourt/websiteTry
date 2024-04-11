@@ -64,13 +64,13 @@ body {
 }
 
 .cd:hover .second a {
-    color: #ffffff;
+    color: #000000;
     border-color: #ffffff;
 
 }
 
 .cd:hover .second h4 {
-    color: #ffffff;
+    color: #000000;
 }
 
 .cd:hover .second hr {
