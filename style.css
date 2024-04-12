@@ -34,10 +34,10 @@ body {
 }
 
 .cd:hover {
-    background: url("https://i.pinimg.com/564x/77/a5/79/77a5798d40797f0cdd84df301e6383f2.jpg ");
+    background: url("");
     background-color: #050505cc;
     box-shadow: 0 0 30px #dad3d3;
-    color: #000000;
+    color: #ffffff;
 
 }
 
@@ -64,13 +64,13 @@ body {
 }
 
 .cd:hover .second a {
-    color: #000000;
+    color: #ffffff;
     border-color: #ffffff;
 
 }
 
 .cd:hover .second h4 {
-    color: #000000;
+    color: #ffffff;
 }
 
 .cd:hover .second hr {
